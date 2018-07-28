@@ -1,0 +1,80 @@
+.btn{
+    margin: 2px;
+}
+
+.btn:hover{
+    background:black
+}
+
+
+ /*HERO IMAGE STARTS HERE*/
+ .fullscreen-bg p{
+    font-family: Lato;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.fullscreen-bg h1{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 150px;
+
+}
+
+.fullscreen-bg h1{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 150px;
+
+}
+
+.btn{
+    text-decoration-color: white;
+}
+
+#background {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width:100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background-size: cover;
+}
+
+.btn-info{
+  
+ text-transform: uppercase;
+    
+}
+
+h1{
+    text-align: center;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.item{
+    margin: 2px 2px 2px 2px;
+    text-align: center;
+}
+
+.btn{
+    margin: 2px 2px 2px 2px;
+}
+
+
+.button-container{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
